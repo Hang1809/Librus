@@ -1,2 +1,2 @@
 # Librus
-Dev : Đinh Phan Thị Khánh Hằng
+Coder : Đinh Phan Thị Khánh Hằng
